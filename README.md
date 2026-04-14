@@ -1,4 +1,4 @@
 To install: 
 
-`pip install git+https://github.com/YOUR\_USERNAME/YOUR\_REPO\_NAME.git`
+`pip install https://github.com/nono819819/mymodule-wow/archive/refs/heads/main.zip`
 
